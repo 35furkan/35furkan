@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm a student at Bilkent Universty
-I'm currently learning Java
-I love playing chess
+I'm a student at Bilkent Universty.
+
+I'm currently learning Java.
+
+I love playing chess.
 - 
 
 
